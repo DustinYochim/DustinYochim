@@ -3,7 +3,8 @@
 🌎 St. Louis, MO. <br>
 🔭 I'm currently working on The Odin Project. <br>
 🧠 Advancing my skills in HTML, CSS, and JavaScript. <br>
-
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
