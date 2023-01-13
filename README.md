@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋. I'm Dustin.
+
+🌎 St. Louis, MO
+🔭 I'm currently working on finishing The Odin Project
+🧠 I'm currently learning HTML, CSS, and JavaScript
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
