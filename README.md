@@ -1,13 +1,12 @@
 Hi 👋 My name is Dustin Yochim
 ==============================  
-Web Developer and Designer 
+Computer Science Student
 --------------------------  
 
-Full-stack developer and fitness enthusiast. Currently learning and honing my skills through The Odin Project. Proficient in HTML, CSS, JavaScript, and familiar with web development frameworks such as Ruby on Rails and Node.js. Passionate about building responsive, user-friendly web applications and constantly striving to improve my health and fitness. When I am not coding or working out, you can find me curled up with a good book.  
+Computer Science student and fitness enthusiast. Currently learning and honing my skills at the University of Misouri - St. Louis. Proficient in HTML, CSS, JavaScript, Python, C and familiar with web development frameworks such as Ruby on Rails and Node.js. Passionate about life long learning and constantly striving to improve my health and fitness. When I am not coding or working out, you can find me curled up with a good book.  
 
 * 🌍  I'm based in St. Louis 
-* ✉️  You can contact me at [yochim.dustin@gmail.com](mailto:yochim.dustin@gmail.com) 
-* 🚀  I'm currently working on [The Odin Project](http://theodinproject.com)
+* ✉️  You can contact me at [yochim.dustin@gmail.com](mailto:yochim.dustin@gmail.com)
 
 <a href="https://www.github.com/dustinyochim" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dustinyochim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
