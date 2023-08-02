@@ -1,12 +1,27 @@
-Hi 👋 My name is Dustin Yochim
-==============================  
-Computer Science Student
---------------------------  
+# Hey there, I'm Dustin Yochim 👋
 
-Computer Science student and fitness enthusiast. Currently learning and honing my skills at the University of Misouri - St. Louis. Proficient in HTML, CSS, JavaScript, Python, C and familiar with web development frameworks such as Ruby on Rails and Node.js. Passionate about life long learning and constantly striving to improve my health and fitness. When I am not coding or working out, you can find me curled up with a good book.  
+## About Me
+I'm a senior at the University of Missouri - Saint Louis, majoring in Computer Science. I have a passion for coding, problem-solving, and creating innovative solutions. When I'm not buried in code or debugging school assignments, you can find me exploring The Odin Project to further enhance my programming skills.
 
-* 🌍  I'm based in St. Louis 
-* ✉️  You can contact me at [yochim.dustin@gmail.com](mailto:yochim.dustin@gmail.com)
+## What I'm Working On
+👨‍💻 Currently, I'm diving deep into projects related to web development through The Odin Project. I love the hands-on experience it offers and the practical skills I'm gaining. This Fall I am taking courses on Algorithms, Web Development, Systems Programming, and Cybersecurity.
+
+## Interests
+📚 I'm an avid reader and always have a book on my nightstand. Whether it's fiction, non-fiction, or even technical books, I believe in the power of continuous learning.
+
+🌿 Nature enthusiast - I find solace in spending time outdoors, whether it's hiking in the woods or simply taking a stroll in the park.
+
+🏋️‍♂️ Health and fitness - I believe a healthy body leads to a healthy mind. I'm dedicated to improving my physical well-being through regular exercise and maintaining a balanced lifestyle.
+
+⚽ Sports - I'm a huge sports fan! Whether it's watching a game with friends or playing on the field, sports bring out the competitive spirit in me.
+
+## Get in Touch
+📫 Feel free to reach out to me if you want to collaborate on a project, discuss a book recommendation, or share your favorite hiking spots. You can contact me at Yochim.Dustin@gmail.com.
+
+Looking forward to connecting with fellow developers and enthusiasts!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+
 
 <a href="https://www.github.com/dustinyochim" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dustinyochim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
