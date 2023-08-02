@@ -1,46 +1,23 @@
-# Hey there! 👋 I'm Dustin Yochim
+<h1 align="center">Hi 👋, I'm Dustin Yochim</h1>
+<h3 align="center">A computer science student at the University of Missouri - Saint Louis.</h3>
 
-I'm a senior at the University of Missouri - Saint Louis, majoring in Computer Science. My passion lies in software engineering and web development, and I'm always excited to dive into new projects and technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dustinyochim&label=Profile%20views&color=0e75b6&style=flat" alt="dustinyochim" /> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on [The Odin Project](theodinproject.com)
 
-- 🔭 I’m currently working this summer on enhancing my skills through various projects including a Todo list app and a weather app.
-- 🌱 I’m currently learning and exploring different aspects of web development to create dynamic and user-friendly web sites.
-- 🤝 I'm open to collaborations and always eager to learn from fellow developers and contribute to exciting projects.
+- 🌱 I’m currently learning **Web Development, Systems Programming, Algorithms, Cybersecurity.**
 
-## 💼 Technical Skills
+- 📫 How to reach me **Yochim.Dustin@gmail.com**
 
-- Programming Languages: C, C++, Java, Python, JavaScript
-- Web Development: HTML, CSS
-- Full-Stack Enthusiast: Combining front-end and back-end technologies to build complete solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 📬 Get in Touch
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-- Email: Yochim.Dustin@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dustinyochim&show_icons=true&locale=en&layout=compact" alt="dustinyochim" /></p>
 
-## 🎯 Goals
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dustinyochim&show_icons=true&locale=en" alt="dustinyochim" /></p>
 
-My goal is to secure a software engineering or web development position where I can leverage my skills to tackle real-world challenges. I'm passionate about crafting elegant solutions and continuously enhancing my abilities to create meaningful and impactful projects.
-
-Let's connect and explore the world of coding together! Feel free to reach out to me for collaboration, opportunities, or just a friendly chat.
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-
-
-<a href="https://www.github.com/dustinyochim" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dustinyochim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills  
-
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> </p> 
-
- ### Socials  
- <p align="left"> <a href="https://www.facebook.com/dustinyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/dustinyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dustinreedyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dustinyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dustinyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/dustinyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/dustinyochim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p> 
- 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dustinyochim"><img src="https://github-readme-stats.vercel.app/api?username=dustinyochim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dustinyochim's GitHub stats" /></a>
-<a href="https://github.com/dustinyochim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinyochim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dustinyochim&" alt="dustinyochim" /></p>
