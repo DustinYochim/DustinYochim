@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **Object-Oriented Programming, System Programming and Tools, Web Full Stack Development, and Design & Analysis of Algorithms.**
 - 🌳 Other courses I've taken include **Programming & Problem Solving 1 & 2, Discrete Structures 1 & 2, Calculus 1 & 2, Linear Algebra, Data Structures, Computer Organization & Architecture, Probability & Statistics, Operating Systems, and Video Game Creation.**
-- ⛰️ Outside of university I have also taken Barbara Oakley's Learning How to Learn, Harvard's CS50x, and The Odin Project's Full Stack Web Dev curriculum.
-- 🏗️ Here you can find projects such as weather and todo applications as well as programs I have made as part of courses I have taken such as my solution to the Knights Trevails problem.
+- ⛰️ Outside of university I have also taken Barbara Oakley's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn), [Harvard's CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), and [The Odin Project](https://www.theodinproject.com)'s Full Stack Web Dev curriculum.
+- 🏗️ Here you can find projects such as weather and todo applications as well as programs I have made as part of courses I have taken such as my solution to the Knights Travails problem.
 
 - 📫 Contact me with any questions or opportunities at  **Yochim.Dustin@gmail.com**
 
