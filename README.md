@@ -17,7 +17,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dustinyochim&show_icons=true&locale=en&layout=compact" alt="dustinyochim" /></p>
 
 <h3 align=left>GitHub Stats:</h3>
-<p>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dustinyochim&" alt="dustinyochim" /></p>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dustinyochim&show_icons=true&locale=en"     alt="dustinyochim" /></p>
-</p>
