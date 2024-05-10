@@ -4,9 +4,9 @@
 <h3 align="center">A senior studying computer science at the University of Missouri - Saint Louis.</h3>
 
 
-- 🌱 I'm in my last semester of university and I am taking **Database Management Systems, Advanced Web Development, Software Security, and Program Translation Project.**
+- 🌱 I am in my last semester of university, taking **Database Management Systems, Advanced Web Development, Software Security, and Program Translation Project.**
 - 🌳 Other courses I've taken include **Programming & Problem Solving, Discrete Structures, Calculus, Linear Algebra, Data Structures, Computer Organization & Architecture, Probability & Statistics, Operating Systems, Video Game Creation, Object-Oriented Programming, System Programming and Tools, Web Full Stack Development, Design & Analysis of Algorithms, Programming Languages, Software Engineering, Computer Networks and Communication, and Technical Writing.**
-- ⛰️ Outside of university I have also taken Barbara Oakley's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn), [Harvard's CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), and [The Odin Project](https://www.theodinproject.com)'s Full Stack Web Dev curriculum.
+- ⛰️ Outside of university, I have also taken Barbara Oakley's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn), [Harvard's CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), and [The Odin Project](https://www.theodinproject.com)'s Full Stack Web Dev curriculum.
 - 🏗️ Here you can find projects such as weather and todo applications as well as programs I have made as part of courses I have taken such as my solution to the Knights Travails problem.
 
 - 📫 Contact me with any questions or opportunities at  **Yochim.Dustin@gmail.com**
