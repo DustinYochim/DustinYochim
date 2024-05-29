@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dustin Yochim</h1>
 <h3 align="center">A senior studying computer science at the University of Missouri - Saint Louis.</h3>
 
-
+- 🦷 Working as a DevOps Engineer Intern at Delta Dental of Missouri!
 - 🌱 I am in my last semester of university, taking **Database Management Systems, Advanced Web Development, Software Security, and Program Translation Project.**
 - 🌳 Other courses I've taken include **Programming & Problem Solving, Discrete Structures, Calculus, Linear Algebra, Data Structures, Computer Organization & Architecture, Probability & Statistics, Operating Systems, Video Game Creation, Object-Oriented Programming, System Programming and Tools, Web Full Stack Development, Design & Analysis of Algorithms, Programming Languages, Software Engineering, Computer Networks and Communication, and Technical Writing.**
 - ⛰️ Outside of university, I have also taken Barbara Oakley's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn), [Harvard's CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), and [The Odin Project](https://www.theodinproject.com)'s Full Stack Web Dev curriculum.
