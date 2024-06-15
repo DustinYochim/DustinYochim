@@ -23,3 +23,5 @@
 <h3 align=left>📊 GitHub Stats:</h3>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dustinyochim&theme=transparent" alt="dustinyochim" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dustinyochim&show_icons=true&locale=en&theme=transparent"     alt="dustinyochim" /></p>
+
+  [![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
