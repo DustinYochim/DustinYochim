@@ -1,7 +1,7 @@
 
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif">
 <h1 align="center">Hi 👋, I'm Dustin Yochim</h1>
-<h3 align="center">DevOps Engineer Intern at Delta Dental of Missouri and senior studying computer science at the University of Missouri - Saint Louis.</h3>
+<h3 align="center">DevOps Engineer Intern at Delta Dental of Missouri</h3>
 
 - 🦷 In April of 2024 I accepted a position as a DevOps Engineer Intern at Delta Dental of Missouri!
 - 🌱 I am in my last semester of university, taking **Database Management Systems, Advanced Web Development, Software Security, and Program Translation Project.**
